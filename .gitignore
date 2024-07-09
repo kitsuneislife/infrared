@@ -1,0 +1,9 @@
+node_modules
+.gitpod.yml
+.vscode
+.gitattributes
+.well-known
+views/archive
+ngrok.exe
+package-lock.json
+pnpm-lock.yaml
